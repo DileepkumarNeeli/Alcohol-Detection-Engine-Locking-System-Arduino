@@ -24,11 +24,15 @@ This project detects alcohol using an MQ-3 sensor and prevents the vehicle from 
 
 ## 📸 Project Images
 
-(Add your images here)
+![Image1](1.jpeg)
+![Image2](2.jpeg)
+![Image3](3.jpeg)
+![Image4](4.jpeg)
+![Image5](5.jpeg)
 
 ## 🎥 Demo Video
 
-(Add video link here)
+[(Add video link here)](https://drive.google.com/file/d/16CM5CEasG4-S4pEI7nMu2WqyBC0l6HF8/view?usp=drive_link)
 
 ## 💡 Future Improvements
 
