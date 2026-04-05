@@ -79,6 +79,13 @@ The Arduino code is available in this repository.
 
 ---
 
+## 📊 Results
+- Successfully detects alcohol presence
+- Engine locking works in real-time
+- Alert system responds instantly
+  
+---
+
 ## 👨‍💻 Author
 
 **Dileep Kumar Neeli**
